@@ -1,0 +1,11 @@
+{
+  "frontend/src/App.tsx": "Main application component with TanStack Router setup, defining routes for home, tours, gallery, and contact pages with theme provider and toast notifications.",
+  "frontend/src/components/Layout.tsx": "Layout component with responsive header navigation, mobile menu, and footer with social links and branding.",
+  "frontend/src/pages/HomePage.tsx": "Home page featuring hero section, mission statement, feature cards, destination previews, and call-to-action sections.",
+  "frontend/src/pages/ToursPage.tsx": "Tours listing page displaying all available tours with details and booking functionality.",
+  "frontend/src/pages/GalleryPage.tsx": "Gallery page showing travel destination images with lightbox functionality for viewing full-size images.",
+  "frontend/src/pages/ContactPage.tsx": "Contact page with company information display and inquiry form submission.",
+  "frontend/src/components/BookingDialog.tsx": "Modal dialog component for tour booking with form validation and submission handling.",
+  "frontend/src/hooks/useQueries.ts": "Custom React Query hooks for fetching tours, gallery images, contact info, and submitting bookings and inquiries.",
+  "frontend/src/index.css": "Global styles with OKLCH color system featuring travel-themed blue primary colors for both light and dark modes."
+}
